@@ -4,6 +4,8 @@
   "description": "backend of a social network ",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
+    "seed": "node utils/seed",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +26,6 @@
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.4.1"
+    
   }
 }
