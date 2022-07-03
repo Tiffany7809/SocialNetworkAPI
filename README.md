@@ -23,8 +23,6 @@
 
   To solidify my understanding of routes and learn how to use mongo and mongoose. 
 
-
-
   I got a good understanding of using MongoDB rather than SQL in this application. I have discovered that I actually enjoy using Mongo more that SQL..
 
   I had a hard time getting the users PUT route to work for me, everything else went smoothly..
@@ -35,6 +33,13 @@
   <h2 id="install">Installation</h2>
 
   To install this application, clone the repository and run npm i to install all of the dependencies. once those are installed open Insomnia and start the server by running node index in the command line. 
+  
+  Here are some videos of the app in action:
+  User Routes:  https://www.youtube.com/watch?v=fAMgWuiSG8E \
+  Thought Routes: https://www.youtube.com/watch?v=faYmrSePddM  \
+  Reaction Routes: https://www.youtube.com/watch?v=u3OBMAdeN5s  \
+  Friend Routes: https://www.youtube.com/watch?v=wSQNGjq7tO8 \
+  
   ***
 
 
