@@ -1,6 +1,7 @@
 //Require Mongoose
 const { Schema, Types } = require('mongoose');
-//Require date formatter 
+//Require moment
+const moment = require('moment');
 
 const reactionSchema = new Schema (
     {
