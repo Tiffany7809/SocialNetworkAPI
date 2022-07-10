@@ -34,11 +34,12 @@
 
   To install this application, clone the repository and run npm i to install all of the dependencies. once those are installed open Insomnia and start the server by running node index in the command line. 
   
-  Here are some videos of the app in action:
+  **Here are some videos of the app in action:**
+  
   User Routes:  https://www.youtube.com/watch?v=fAMgWuiSG8E \
   Thought Routes: https://www.youtube.com/watch?v=faYmrSePddM  \
   Reaction Routes: https://www.youtube.com/watch?v=u3OBMAdeN5s  \
-  Friend Routes: https://www.youtube.com/watch?v=wSQNGjq7tO8 \
+  Friend Routes: https://www.youtube.com/watch?v=wSQNGjq7tO8 
   
   ***
 
